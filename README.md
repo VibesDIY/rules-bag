@@ -23,15 +23,17 @@ a minute after you push.
 
 **[Open Rules Bag Reviewer on vibes.diy →](https://vibes.diy/vibe/jchris/rules-bag-reviewer?utm_source=github&utm_medium=readme&utm_campaign=rules-bag-reviewer)**
 
-Sign in, press **Connect a GitHub repo**, pick the repos on GitHub, and come
-back to choose your rules. That's it — the next pull request gets a review.
+Sign in, press **Connect a GitHub repo**, approve the vibes.diy GitHub App,
+and tick the repos this vibe should review. Then choose your rules. That's it —
+the next pull request gets a review.
 
 ## How it works
 
 - **A GitHub App does the posting.** Connecting goes through the vibes.diy
   GitHub App, and you choose exactly which repos it can see.
 - **You pick the repos.** Each connection belongs to this vibe, and you can
-  connect any repo you can write to. Tick or untick repos on GitHub any time.
+  connect any repo you can write to. Press **Add or remove repos** any time to
+tick or untick them; other vibes on the same repo are unaffected.
 - **You set the strength of each rule group.** For each of the eight groups,
   choose **off**, **comment** (a 🟡 note), or **request changes** (🔴, the
   pull request waits on a fix).

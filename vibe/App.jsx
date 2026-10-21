@@ -476,7 +476,7 @@ export default function App() {
             <CardContent className="py-6 space-y-2">
               <p className="font-medium">No repos connected yet.</p>
               <p className={c.muted}>
-                Press Connect, pick the repos on GitHub, and you'll come back here to choose the rules. A disagreement with a rule is a comment away: put{" "}
+                Press Connect, tick the repos this vibe should review, and choose the rules here. A disagreement with a rule is a comment away: put{" "}
                 <code>// rules-bag-allow: rule-id why</code> above the line and the review lists it for a human.
               </p>
             </CardContent>
